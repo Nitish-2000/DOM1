@@ -50,17 +50,3 @@ element7.innerHTML="<p>HI GUYS jhjkh  hjgjh fiug tdhtgjh g6543 54gi 2ug4</p>";
  element10.append(element11,element13);
  element9.append(element10);
  document.body.append(element9);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
