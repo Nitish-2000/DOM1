@@ -1,0 +1,50 @@
+body{
+    margin: 5px;
+   /* // border: 2px solid black; */
+    padding:5px;
+    /* background-color: aquamarine; */
+    color: brown;
+    text-align:center;
+    font-size: large;
+    font-weight: bold;
+}
+div{
+    margin: 5px;
+    border: 2px solid black;
+    padding:5px;
+    background-color: rgb(122, 211, 63);
+}
+
+.container{
+    background-color: blue;
+}
+
+.headerclass1{
+    background-color: chocolate;
+    margin-top: 5px;
+    border: 2px solid black;
+    padding:5px;
+}
+.sectionclass1{
+    background-color: aquamarine;
+    margin-top: 5px;
+    border: 2px solid black;
+    padding:5px;
+}
+.spanclass1{
+    font-weight: bold;
+    font-size:x-large;
+    color:black
+}
+
+.articleclass1{
+    background-color: aquamarine;
+    margin-top: 5px;
+    border: 2px solid black;
+    padding:5px;
+}
+.pclass1{
+    font-weight: bold;
+    font-size:x-large;
+    color:black
+}
